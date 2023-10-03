@@ -1,0 +1,21 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+:root{
+    background-color: royalblue;
+}
+
+img{
+    height: auto;
+    width: 20em;
+}
+
+ul li::marker{
+    color:aqua
+}
+
+ol li::marker{
+    color: rgb(231, 22, 22);
+}
+
